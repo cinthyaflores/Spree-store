@@ -9,4 +9,5 @@
  *= require_tree .
  *= require spree/frontend/spree_social
  *= require font-awesome
+ *= require spree/frontend/spree_paypal_express
 */
